@@ -35,4 +35,13 @@ Destination: This column holds the name of the place to where passengers wanted 
 
 9.Price: Price of the flight for a complete journey including all the expenses before onboarding.
 
+# Technical Stack used
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- statistics
+- sklearn
+- 1. RidgeRegression()  2. LassoClassifier()  3. DecisionForestClassifier()
+
 
