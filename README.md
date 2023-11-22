@@ -8,9 +8,9 @@ In this article, we will be analyzing the flight fare dataset using essential ex
 
 1.EDA: Learn the complete process of EDA
 
-2.Data analysis: Learn to withdraw some insights from the dataset both mathematically and visualize it.
+2.Data analysis: Analyzing to withdraw some insights from the dataset both mathematically and visualize it.
 
-3.Machine learning model: Learn to make a Machine learning model after the data preprocessing steps.
+3.Machine learning model: Make a Machine learning model after the data preprocessing steps.
 
 4.Comparing the models: We will be working on multiple models so that we could choose the best one for that we need to know the techniques of how to compare our model to choose the best one .
 
