@@ -12,7 +12,7 @@ In this article, we will be analyzing the flight fare dataset using essential ex
 
 3.Machine learning model: Learn to make a Machine learning model after the data preprocessing steps.
 
-4.Comparing the models: We will be working on multiple models so that we could choose the best one for that we need to know the techniques of how to compare our model to choose the best one so we will be covering that also.
+4.Comparing the models: We will be working on multiple models so that we could choose the best one for that we need to know the techniques of how to compare our model to choose the best one .
 
 ## Dataset
 
